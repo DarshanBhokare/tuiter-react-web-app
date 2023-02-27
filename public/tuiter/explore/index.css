@@ -1,0 +1,91 @@
+body{
+  background-color: black;
+}
+.wd-top-bar{
+  padding-top: 16px;
+}
+
+.wd-search-bar{
+  float: left;
+  border-radius: 50px;
+  color: white;
+  background-color: darkgray;
+  width: 95%;
+  height: 40px;
+  padding-left: 20px;
+}
+.wd-gear-icon{
+  padding-top: 2px;
+  margin-right: 12px;
+  float: right;
+  color: rgb(29, 161, 242);
+  font-size: 30px;
+}
+.wd-nav-bar{
+  padding-top: 30px;
+  padding-bottom: 18px;
+  float: left;
+  font-size: 15px;
+  border-bottom: rgb(110, 118, 125) 20px solid;
+  width: 100%;
+}
+.wd-highlighted{
+  color: rgb(29, 161, 242);
+  border-bottom: 3px solid rgb(29, 161, 242);
+  padding: 16px;
+  text-decoration: none;
+}
+.wd-non-highlighted{
+  color: rgb(110, 118, 125);
+  padding: 16px;
+  text-decoration: none;
+}
+.wd-suggested-main{
+  padding-left: 16px;
+}
+.wd-suggested-post-topic{
+  color: RGB(110,118,125);
+  font-size: 13px;
+}
+.wd-suggested-post-title{
+  color: white;
+}
+.wd-suggested-post-tuits{
+  color: RGB(110,118,125);
+  font-size: 13px;
+}
+.wd-more-options {
+  float: right;
+  margin-right: 12px;
+  font-size: 20px;
+  color: lightgrey;
+  margin-top: 13px;
+}
+.wd-suggested-image{
+  padding-bottom: 20px;
+}
+.wd-suggested-posts-D{
+  padding-left: 16px;
+}
+.wd-suggested-D-author{
+  color: white;
+  font-size: 13px;
+}
+.wd-suggested-D-time{
+  color: RGB(110,118,125);
+  font-size: 13px;
+}
+.wd-suggested-D-title{
+  color: white;
+}
+.wd-suggested-post-image{
+  float: right;
+  height: 100px;
+  width: 100px;
+  right: 16px;
+  border-radius: 10px;
+}
+.wd-suggested-D-topic{
+  color: RGB(110,118,125);
+  font-size: 13px;
+}
